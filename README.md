@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kuntal1461
+- 👋 Hi, I’m Kuntal Maity
 - 👀 I’m interested in web dev, data sci.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on wed dev project.
