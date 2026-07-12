@@ -130,15 +130,15 @@ Full-stack exam-preparation platform for NORCET. Go backend serves a dynamically
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kuntal1461&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="GitHub Stats">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuntal1461&theme=github_dark" height="170" alt="GitHub Stats">
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntal1461&layout=compact&theme=github_dark&hide_border=true&langs_count=7" height="170" alt="Top Languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kuntal1461&theme=github_dark" height="170" alt="Top Languages">
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=kuntal1461&theme=github-dark-blue&hide_border=true&stroke=388bfd&ring=388bfd&fire=f78166&currStreakLabel=a5d6ff" alt="Contribution Streak" width="500">
+<img src="https://streak-stats.demolab.com?user=kuntal1461&theme=github-dark-blue&hide_border=true&stroke=388bfd&ring=388bfd&fire=f78166&currStreakLabel=a5d6ff" alt="Contribution Streak" width="500">
 
 </div>
 
@@ -154,11 +154,11 @@ Full-stack exam-preparation platform for NORCET. Go backend serves a dynamically
 
 ---
 
-## GitHub Trophies
+## Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kuntal1461&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuntal1461&theme=github_dark" alt="Profile Summary" width="100%">
 
 </div>
 
