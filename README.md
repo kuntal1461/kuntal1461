@@ -130,9 +130,9 @@ Full-stack exam-preparation platform for NORCET. Go backend serves a dynamically
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kuntal1461&theme=github_dark" height="170" alt="GitHub Stats">
+<img src="https://github-profile-summary-cards-theta.vercel.app/api/cards/stats?username=kuntal1461&theme=github_dark" height="170" alt="GitHub Stats">
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kuntal1461&theme=github_dark" height="170" alt="Top Languages">
+<img src="https://github-profile-summary-cards-theta.vercel.app/api/cards/repos-per-language?username=kuntal1461&theme=github_dark" height="170" alt="Top Languages">
 
 </div>
 
@@ -158,7 +158,7 @@ Full-stack exam-preparation platform for NORCET. Go backend serves a dynamically
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuntal1461&theme=github_dark" alt="Profile Summary" width="100%">
+<img src="https://github-profile-summary-cards-theta.vercel.app/api/cards/profile-details?username=kuntal1461&theme=github_dark" alt="Profile Summary" width="100%">
 
 </div>
 
