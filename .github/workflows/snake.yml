@@ -19,9 +19,19 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=58a6ff&color_dots[0]=161b22&color_dots[1]=0e4429&color_dots[2]=006d32&color_dots[3]=26a641&color_dots[4]=39d353
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fix dark snake colors for visibility
+        run: |
+          sed -i \
+            -e 's/--c1:#01311f/--c1:#0e4429/g' \
+            -e 's/--c2:#034525/--c2:#006d32/g' \
+            -e 's/--c3:#0f6d31/--c3:#26a641/g' \
+            -e 's/--c4:#00c647/--c4:#39d353/g' \
+            -e 's/--cs:purple/--cs:#58a6ff/g' \
+            dist/github-contribution-grid-snake-dark.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
