@@ -130,9 +130,9 @@ Full-stack exam-preparation platform for NORCET. Go backend serves a dynamically
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards-theta.vercel.app/api/cards/stats?username=kuntal1461&theme=github_dark" height="170" alt="GitHub Stats">
+<img src="https://github-readme-stats-badge.vercel.app/api?username=kuntal1461&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=388bfd&hide_border=true" height="170" alt="GitHub Stats">
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards-theta.vercel.app/api/cards/repos-per-language?username=kuntal1461&theme=github_dark" height="170" alt="Top Languages">
+<img src="https://github-readme-stats-badge.vercel.app/api/top-langs?username=kuntal1461&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&hide_border=true" height="170" alt="Top Languages">
 
 </div>
 
@@ -158,7 +158,7 @@ Full-stack exam-preparation platform for NORCET. Go backend serves a dynamically
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards-theta.vercel.app/api/cards/profile-details?username=kuntal1461&theme=github_dark" alt="Profile Summary" width="100%">
+<img src="https://github-profile-summary-cards-sigma.vercel.app/api/cards/profile-details?username=kuntal1461&theme=github_dark" alt="Profile Summary" width="100%">
 
 </div>
 
