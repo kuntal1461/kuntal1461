@@ -2,7 +2,7 @@
 
 # Kuntal Maity
 
-### Backend Engineer · Java · Spring Boot · Distributed Systems
+### Backend Engineer · Java · Spring Boot · API-Driven Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kuntal--maity-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuntal-maity)
 [![Email](https://img.shields.io/badge/Email-kuntal.1461%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kuntal.1461@gmail.com)
@@ -12,45 +12,58 @@
 
 ## Profile Summary
 
-I am a backend engineer at **Tata Business Hub**, building production services with Java and Spring Boot. I design REST APIs, service integrations, and data flows that stay predictable under real traffic. My work spans distributed systems, asynchronous processing, relational data, and cloud-native delivery. I care about API contracts, failure semantics, observability, and operational simplicity. I trace difficult defects from symptoms to the library or concurrency boundary that caused them. I use tests as executable design constraints, especially around edge cases and regressions. I am comfortable moving between application code, framework internals, databases, and build pipelines. Outside product work, I maintain **HavocFlow**, an annotation-driven chaos-engineering starter for Spring Boot. I also contribute focused fixes to Spring AI, Swagger Core, OpenAI Java, Apify CLI, and Go services. I enjoy turning ambiguous production problems into small, reviewable, durable changes.
+I am a backend software engineer at **Tata Business Hub**, building production-grade systems with Java, Spring Boot, and SQL. My work centers on API-driven architecture, backend services, database engineering, and third-party integrations that support real business workflows. I design REST APIs and distributed workflows with clear contracts, deliberate failure handling, and maintainable service boundaries. My cloud exposure includes AWS Textract, OCR-based document processing, AI pipelines, and automation across Microsoft Power Automate and Teams. I focus on performance optimization, reliability, and the operational details that keep scalable production systems predictable. I am most effective when a problem crosses application code, data, framework internals, and system integration boundaries.
 
-## Technology Stack
+## Technical Skills
 
-`Java` · `Spring Boot` · `Spring WebFlux` · `Kotlin` · `Go` · `Python` · `REST / OpenAPI` · `Kafka` · `PostgreSQL` · `MySQL` · `Elasticsearch` · `Docker` · `Maven` · `GitHub Actions` · `OpenTelemetry`
+- **Languages:** Java, Python, JavaScript, SQL
+- **Backend & Frameworks:** Spring Boot, Spring MVC, Hibernate/JPA, REST APIs, Maven, Spring AOP
+- **Databases:** MySQL, PostgreSQL
+- **Search & Messaging:** Elasticsearch, Apache Kafka
+- **Cloud & AI:** AWS Textract, AI Pipelines, OCR-based Document Processing, Microsoft Power Automate
+- **Architecture & Integration:** JSON Processing, Third-party API Integration, Microsoft Teams Integration
+- **Testing & Tools:** JUnit, Postman, JIRA
+- **Version Control:** Git, SVN
 
 ## Engineering Focus
 
-| Area | What I optimize for |
-|---|---|
-| Backend systems | Clear service boundaries, resilient workflows, concurrency safety, and measurable behavior |
-| APIs & integrations | Stable contracts, explicit validation, useful errors, and backward-compatible change |
-| Data & messaging | Deliberate schemas, transaction boundaries, idempotency, caching, and event-driven processing |
-| Reliability | Failure injection, regression tests, dependency hygiene, telemetry, and production diagnosis |
+| Backend systems | APIs and integrations | Data and reliability |
+|---|---|---|
+| Production services, distributed workflows, concurrency safety | Contract design, validation, third-party APIs, backward compatibility | Relational modeling, messaging, observability, performance analysis |
 
 ## Live GitHub Activity
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dashboard-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-dashboard-light.svg">
+  <img alt="Live GitHub engineering dashboard for Kuntal Maity" src="./assets/github-dashboard-light.svg" width="100%">
+</picture>
 
-![Live GitHub metrics for Kuntal Maity](./assets/github-metrics.svg)
+<sub>Rolling 12-month data generated directly from GitHub every day at 12:00 PM IST.</sub>
 
-</div>
+### Recent Activity
 
-> Generated from the GitHub API every day at 12:00 PM IST; values are never maintained by hand.
+<!-- recent_activity:start -->
+- `2026-09-13` · Commented on 2 issues in [apify/apify-cli](https://github.com/apify/apify-cli)
+- `2026-09-11` · Opened 8 issues in [apify/apify-cli](https://github.com/apify/apify-cli)
+- `2026-09-11` · Opened pull request in [apify/apify-cli](https://github.com/apify/apify-cli)
+- `2026-09-11` · Created branch in [kuntal1461/apify-cli](https://github.com/kuntal1461/apify-cli)
+<!-- recent_activity:end -->
 
 ## Open-Source Impact
 
-I maintain [HavocFlow](https://github.com/havocflow/chaos-spring-boot-starter), a Spring Boot chaos-engineering library with WebFlux, Kafka, OpenTelemetry, and Gateway integrations published to Maven Central. My upstream work includes a Swagger Core Maven BOM, validation and schema-resolution fixes, Spring AI tool-calling and session-memory corrections, and production bug fixes across Java and Go projects. I favor narrow patches backed by regression tests, clear failure analysis, and maintainable API behavior.
+I maintain [HavocFlow](https://github.com/havocflow/chaos-spring-boot-starter), an annotation-driven chaos-engineering library for Spring Boot with WebFlux, Kafka, OpenTelemetry, and Gateway integrations. My upstream work includes Swagger Core dependency management and schema fixes, Spring AI tool-calling and session-memory corrections, OpenAI Java deserialization, and production fixes across Java and Go services. I keep contributions narrow, test-backed, and explicit about the failure mode they address.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/open-source-impact-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/open-source-impact-light.svg">
+  <img alt="Dynamic open-source contribution metrics for Kuntal Maity" src="./assets/open-source-impact-light.svg" width="100%">
+</picture>
 
 | Project | Selected engineering contribution |
 |---|---|
 | [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core/pulls?q=is%3Apr+author%3Akuntal1461) | Maven BOM, validation meta-annotation processing, and Java time-format support |
-| [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai/pulls?q=is%3Apr+author%3Akuntal1461) | Tool context validation, evaluator feedback handling, and test clarity |
+| [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai/pulls?q=is%3Apr+author%3Akuntal1461) | Tool-context validation, evaluator feedback handling, and test clarity |
 | [spring-ai-community/spring-ai-session](https://github.com/spring-ai-community/spring-ai-session/pull/19) | Prevented invalid empty assistant frames during AWS Bedrock tool-call replay |
 | [openai/openai-java](https://github.com/openai/openai-java/pull/771) | Added robust numeric-string deserialization for organization cost responses |
 | [apify/apify-cli](https://github.com/apify/apify-cli/pulls?q=is%3Apr+author%3Akuntal1461) | CLI validation and JSON-input fixes with regression coverage |
-
-<div align="center">
-
-<sub>Build reliable systems. Diagnose the awkward edge cases. Leave the codebase easier to operate.</sub>
-
-</div>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="132" viewBox="0 0 820 132" role="img" aria-labelledby="title desc">
+  <title id="title">Open-source impact for kuntal1461</title>
+  <desc id="desc">Public commits, pull requests, issues, reviews, and source repository activity.</desc>
+  <style>
+    .title { font: 600 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #e6edf3; }
+    .label { font: 600 9px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; letter-spacing: .55px; fill: #8b949e; }
+    .value { font: 700 22px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #58a6ff; }
+    .body { font: 500 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #e6edf3; }
+    .muted { font: 500 11px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #8b949e; }
+  </style>
+  <rect x=".5" y=".5" width="819" height="131" rx="14" fill="#0d1117" stroke="#30363d"/>
+  
+  <circle cx="28" cy="28" r="5" fill="#3fb950"/>
+  <text x="42" y="33" class="title">OPEN-SOURCE SIGNAL</text>
+  <text x="678" y="33" class="muted">Public GitHub index</text>
+  <g transform="translate(24 58)"><rect width="180" height="58" rx="9" fill="#161b22" stroke="#30363d"/><rect x="0" y="0" width="3" height="58" rx="2" fill="#58a6ff"/><text x="16" y="21" class="label">PUBLIC COMMITS</text><text x="16" y="46" class="value">311</text></g><g transform="translate(218 58)"><rect width="180" height="58" rx="9" fill="#161b22" stroke="#30363d"/><rect x="0" y="0" width="3" height="58" rx="2" fill="#58a6ff"/><text x="16" y="21" class="label">PULL REQUESTS</text><text x="16" y="46" class="value">96</text></g><g transform="translate(412 58)"><rect width="180" height="58" rx="9" fill="#161b22" stroke="#30363d"/><rect x="0" y="0" width="3" height="58" rx="2" fill="#58a6ff"/><text x="16" y="21" class="label">ISSUES OPENED</text><text x="16" y="46" class="value">23</text></g><g transform="translate(606 58)"><rect width="180" height="58" rx="9" fill="#161b22" stroke="#30363d"/><rect x="0" y="0" width="3" height="58" rx="2" fill="#58a6ff"/><text x="16" y="21" class="label">PULL REQUESTS REVIEWED</text><text x="16" y="46" class="value">14</text></g>
+</svg>
