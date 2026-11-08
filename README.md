@@ -44,7 +44,9 @@ I am a backend software engineer at **Tata Business Hub**, building production-g
 ### Recent Activity
 
 <!-- recent_activity:start -->
-- No recent public activity returned by GitHub.
+- `2026-11-08` · Opened issue in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release/issues/11950)
+- `2026-11-08` · Opened issue in [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker/issues/5610)
+- `2026-11-08` · Opened pull request in [apify/apify-cli](https://github.com/apify/apify-cli)
 <!-- recent_activity:end -->
 
 ## Open-Source Impact
