@@ -44,7 +44,8 @@ I am a backend software engineer at **Tata Business Hub**, building production-g
 ### Recent Activity
 
 <!-- recent_activity:start -->
-- `2026-11-08` · Opened issue in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release/issues/11950)
+- `2026-11-08` · Opened issue in [microsoft/vscode-java-pack](https://github.com/microsoft/vscode-java-pack/issues/1793)
+- `2026-11-08` · Opened 3 issues in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
 - `2026-11-08` · Opened issue in [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker/issues/5610)
 - `2026-11-08` · Opened pull request in [apify/apify-cli](https://github.com/apify/apify-cli)
 <!-- recent_activity:end -->
