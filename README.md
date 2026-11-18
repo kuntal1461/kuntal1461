@@ -44,10 +44,10 @@ I am a backend software engineer at **Tata Business Hub**, building production-g
 ### Recent Activity
 
 <!-- recent_activity:start -->
-- `2026-11-17` · Opened pull request in [apify/apify-cli](https://github.com/apify/apify-cli)
-- `2026-11-08` · Opened issue in [microsoft/vscode-java-pack](https://github.com/microsoft/vscode-java-pack/issues/1793)
-- `2026-11-08` · Opened 3 issues in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
-- `2026-11-08` · Opened issue in [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker/issues/5610)
+- `2026-11-17` · Opened 2 pull requests in [apify/apify-cli](https://github.com/apify/apify-cli)
+- `2026-11-17` · Created 2 branchs in [kuntal1461/apify-cli](https://github.com/kuntal1461/apify-cli)
+- `2026-11-17` · Commented on issue in [apify/apify-cli](https://github.com/apify/apify-cli/issues/1591)
+- `2026-11-17` · Pushed commit in [kuntal1461/apify-cli](https://github.com/kuntal1461/apify-cli)
 <!-- recent_activity:end -->
 
 ## Open-Source Impact
