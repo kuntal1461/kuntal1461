@@ -44,10 +44,10 @@ I am a backend software engineer at **Tata Business Hub**, building production-g
 ### Recent Activity
 
 <!-- recent_activity:start -->
+- `2026-11-25` · Merged pull request in [kuntal1461/ghostbridge-ai](https://github.com/kuntal1461/ghostbridge-ai)
+- `2026-11-25` · Opened pull request in [kuntal1461/ghostbridge-ai](https://github.com/kuntal1461/ghostbridge-ai)
 - `2026-11-23` · Pushed commit in [kuntal1461/ghostbridge-ai](https://github.com/kuntal1461/ghostbridge-ai)
 - `2026-11-23` · Merged pull request in [kuntal1461/ghostbridge-ai](https://github.com/kuntal1461/ghostbridge-ai)
-- `2026-11-23` · Opened pull request in [kuntal1461/ghostbridge-ai](https://github.com/kuntal1461/ghostbridge-ai)
-- `2026-11-23` · Commented on 2 issues in [apify/apify-cli](https://github.com/apify/apify-cli)
 <!-- recent_activity:end -->
 
 ## Open-Source Impact
